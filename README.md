@@ -33,7 +33,7 @@ To install and run DriveDoctor on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/DriveDoctor.git
+   git clone https://github.com/islamwahiedwork/DriveDoctor.git
    cd DriveDoctor
    ```
 
